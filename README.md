@@ -1,1 +1,0 @@
-Aqui é onde irei fazer meu JavaScript e css básico do dia, estou atualmente pegando projetos prontos e desmembrando eles para tentar aprender sobre como a linguagem funciona. Todo dia irei trazer algo novo para essa pasta
