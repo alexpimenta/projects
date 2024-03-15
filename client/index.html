@@ -64,7 +64,17 @@
       <tbody></tbody>
 
       <tfoot></tfoot>
-      <script src="./index.js"></script>
     </table>
+    <script src="./js/app/models/Negotiations.js"></script>
+    <script>
+      let n1 = new negotiations(new Date(), 5, 700);
+
+      console.log(n1.data);
+      n1.data.setDate(11);
+
+      n1.data = amanha;
+
+      console.log(n1.data);
+    </script>
   </body>
 </html>
