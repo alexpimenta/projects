@@ -1,0 +1,1 @@
+Esse projeto estou fazendo com a iniciativa alura, aprendendo sobre alguns novos comandos, como usar o termo constructor e como fazer negociações pelo JAVASCRIPT, como funciona o método DOM e entre outras várias coisas, no final agora estou aprendendo a usar o SUPER
